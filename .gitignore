@@ -1,0 +1,6 @@
+/.idea
+/.vscode
+/.mvn
+/resources/
+script.bat
+/target/**

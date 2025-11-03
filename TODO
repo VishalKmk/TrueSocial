@@ -1,0 +1,26 @@
+Auth:
+- User registration ✅
+- User Login ✅
+- User Logout (Not implemented yet)
+
+User:
+- View user profile ✅
+- Update user profile ✅
+- Delete user profile ✅ (Not tested)
+- Upload user profile pic ✅
+- Change user password
+
+Post Content:
+- Create a Post ✅
+- View Post
+- Update Post ✅ (Not tested)
+- Delete Post ✅ (Not tested)
+
+Like Content:
+- Like a post ✅
+- Undo existing like ✅
+
+Comment:
+- Make a comment ✅
+- Edit comment ✅ (Not tested)
+- Delete comment ✅ (Not tested)
